@@ -1,4 +1,4 @@
-# DeepLearning
+# Deep Learning
 Deep Learning course by Andrew Ng &amp; deeplearning.ai on Coursera  
 - __Course 1: Neural Networks and Deep Learning__  
   - [Python basics with NumPy](https://github.com/Ars235/DeepLearning/blob/master/course1/home/jovyan/work/Week%202/Python%20Basics%20with%20Numpy/Python_Basics_With_Numpy_v3a.ipynb)  

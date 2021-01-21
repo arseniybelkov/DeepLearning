@@ -13,4 +13,7 @@ Deep Learning course by Andrew Ng &amp; deeplearning.ai on Coursera
   - [Optimization methods: SGD, Momentum and Adam](https://github.com/Ars235/DeepLearning/blob/master/course2/home/jovyan/work/week6/Optimization_methods_v1b.ipynb)  
   - [TensorFlow Tutorial](https://github.com/Ars235/DeepLearning/blob/master/course2/home/jovyan/work/week7/TensorFlow_Tutorial_v3b.ipynb)  
 - __Course 3: Structuring Machine Learning projects__  
-No programming assignments
+No programming assignments  
+- __Course 4: Convolutional Neural Networks__  
+  - [Convolutional model Step by step](https://github.com/Ars235/DeepLearning/blob/master/course4/home/jovyan/work/week1/Convolution_model_Step_by_Step_v2a.ipynb)  
+  - [Application of CNN](https://github.com/Ars235/DeepLearning/blob/master/course4/home/jovyan/work/week1/Convolution_model_Application_v1a.ipynb)
